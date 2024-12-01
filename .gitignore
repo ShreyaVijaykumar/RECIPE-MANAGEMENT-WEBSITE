@@ -1,0 +1,25 @@
+# Environment files
+venv/
+*.env
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+
+# Flask specific
+instance/
+*.sqlite3
+
+# Logs and debug
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
