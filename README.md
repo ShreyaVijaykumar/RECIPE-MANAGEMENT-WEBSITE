@@ -63,16 +63,16 @@ Prerequisites
 ## Project Flow
 recipe-management-system/
 ├── templates/
-│   ├── index.html        # Main template with form and layout
-│   ├── add_recipe.html   # Form to add new recipes
-│   ├── login.html        # Login page for users
-│   ├── profile.html      # User profile details
-│   ├── register.html     # Registration form
+│   ├── index.html
+│   ├── add_recipe.html
+│   ├── login.html
+│   ├── profile.html
+│   ├── register.html
 ├── static/
-│   ├── style.css         # CSS styling
-├── app.py                # Flask server setup
-├── recipes.db            # SQLite database for storing recipes and user data
-├── README.md             # Project documentation
+│   ├── style.css
+├── app.py
+├── recipes.db
+├── README.md
 
 ## Contributing
 1. Fork the repository.
