@@ -62,17 +62,17 @@ Prerequisites
 
 ## Project Flow
 recipe-management-system/
-├── templates/
-│   ├── index.html
-│   ├── add_recipe.html
-│   ├── login.html
-│   ├── profile.html
-│   ├── register.html
-├── static/
-│   ├── style.css
-├── app.py
-├── recipes.db
-├── README.md
+-├── templates/
+-│   ├── index.html
+-│   ├── add_recipe.html
+-│   ├── login.html
+-│   ├── profile.html
+-│   ├── register.html
+-├── static/
+-│   ├── style.css
+-├── app.py
+-├── recipes.db
+-├── README.md
 
 ## Contributing
 1. Fork the repository.
