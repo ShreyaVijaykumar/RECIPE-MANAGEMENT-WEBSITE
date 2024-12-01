@@ -87,6 +87,14 @@ recipe-management-system/
    git push origin feature-name
 8. Submit a pull request.
 
+
+## Contributors
+
+- [Shreya Vijaykumar ](https://github.com/ShreyaVijaykumar)
+- [Shaik Arbaaz ](https://github.com/ShaikArbaaz)
+- [Syed Sabith Ansari ](https://github.com/ansari6926)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./license) file for details.
 
