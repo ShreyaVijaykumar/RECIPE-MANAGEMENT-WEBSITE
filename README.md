@@ -38,11 +38,10 @@ A web-based application built with Flask and MySQL to manage and share recipes. 
 
 7. Open your browser and go to http://127.0.0.1:5000/
    
-8. Contributing
+
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and create a pull request.
 
-9. License
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
