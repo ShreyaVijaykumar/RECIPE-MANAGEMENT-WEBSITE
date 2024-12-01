@@ -47,13 +47,14 @@ Git for source control and collaboration.
 
 6. Start the application:
    ```bash
-   flask run
+   flask run     # any one of these can be used
+   python app.py
 
-7. Open your browser and go to http://127.0.0.1:5000/
+  
+7. Open your browser:
+   Go to http://127.0.0.1:5000/
+   (or) your running server with its port.
    
-
-## Contributing
-Contributions are welcome! Feel free to fork this repository and create a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
