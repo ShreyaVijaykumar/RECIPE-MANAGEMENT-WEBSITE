@@ -1,11 +1,24 @@
-# RECIPE-MANAGEMENT-WEBSITE
-A web-based application built with Flask and MySQL to manage and share recipes. Features include user authentication, recipe categorization, and image uploads.
+# Recipe Management Application 🍲
+A web-based application built with Flask and MySQL to manage and share recipes. This project allows users to authenticate, create, categorize, and upload recipes with images, fostering a collaborative cooking experience.
+
 ## Features
-- User registration and login.
-- Add, view, and manage recipes.
-- Filter recipes by type (e.g., veg, non-veg).
-- Upload and display recipe images.
-- User profile management.
+- User Authentication: Secure user registration and login system.
+- Recipe Management: Add, view, and categorize recipes as "veg" or "non-veg."
+- Allergen Tracking: Specify allergens for each recipe.
+- Image Uploads: Upload images for recipes using Flask-Uploads.
+- Dynamic Dashboard: Interactive and responsive user interface built with HTML, CSS, and Bootstrap.
+
+## Technologies Used
+- Backend
+Framework: Flask (Python)
+Database: MySQL (with mysql-connector for database connectivity)
+- Frontend
+HTML, CSS, and Bootstrap for a responsive and intuitive UI.
+- File Management
+Flask-Uploads for managing recipe image uploads.
+- Version Control
+Git for source control and collaboration.
+  
 ## Installation
 
 1. Clone the repository:
