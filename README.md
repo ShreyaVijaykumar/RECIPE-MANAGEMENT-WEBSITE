@@ -61,7 +61,7 @@ Prerequisites
    (or) equivalent URL.
 
 ## Project Flow
-   recipe-management-system/
+recipe-management-system/
 ├── templates/
 │   ├── index.html        # Main template with form and layout
 │   ├── add_recipe.html   # Form to add new recipes
