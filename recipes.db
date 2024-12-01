@@ -1,0 +1,18 @@
+-- Users table to store user details
+CREATE TABLE IF NOT EXISTS users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    username TEXT UNIQUE NOT NULL,
+    email TEXT NOT NULL,
+    password TEXT NOT NULL
+);
+
+-- Recipes table to store recipe information
+CREATE TABLE IF NOT EXISTS recipes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    type TEXT NOT NULL,          -- 'veg' or 'non-veg'
+    allergens TEXT,              -- List of allergens
+    ingredients TEXT NOT NULL,    -- Ingredients list
+    description TEXT NOT NULL,    -- Recipe description
+    image TEXT                    -- Image URL
+);
