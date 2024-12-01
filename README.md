@@ -44,9 +44,9 @@ Prerequisites
    pip install -r requirements.txt
    
 5. Set up the database:
-    . Create a MySQL database.
-    . Update the config.py file with your database credentials.
-    . Initialize the database by running the setup_db.py script.
+    - Create a MySQL database.
+    - Update the config.py file with your database credentials.
+    - Initialize the database by running the setup_db.py script.
    ```bash
     python setup_db.py
 
