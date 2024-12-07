@@ -1,4 +1,4 @@
-# Recipe Management Application 🍲
+# Recipe Management Website 🍲
 A web-based application built with Flask and MySQL to manage and share recipes. This project allows users to authenticate, create, categorize, and upload recipes with images, fostering a collaborative cooking experience.
 
 ## Features
